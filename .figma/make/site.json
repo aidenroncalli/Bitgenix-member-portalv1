@@ -1,0 +1,11 @@
+{
+  "title": "Bitgenix member portal - V1",
+  "description": "Secure member portal enabling profile management, query tracking, and project editing to efficiently oversee and update live website content.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
